@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f2332de3-4c9e-4218-b828-9622947ab25d": {
+      "ProjectGuid": "f2332de3-4c9e-4218-b828-9622947ab25d",
+      "DisplayName": "Rekenmachine",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
