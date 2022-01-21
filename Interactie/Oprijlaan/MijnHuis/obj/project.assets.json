@@ -1,0 +1,183 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "DoomsdayPreppers/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "IEEE": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DoomsdayPreppers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DoomsdayPreppers.dll": {}
+        }
+      },
+      "Heras/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "IEEE": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Heras.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Heras.dll": {}
+        }
+      },
+      "IEEE/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/IEEE.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IEEE.dll": {}
+        }
+      },
+      "Infrac/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "IEEE": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Infrac.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Infrac.dll": {}
+        }
+      },
+      "Philips/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "IEEE": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Philips.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Philips.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DoomsdayPreppers/1.0.0": {
+      "type": "project",
+      "path": "../DoomsdayPreppers/DoomsdayPreppers.csproj",
+      "msbuildProject": "../DoomsdayPreppers/DoomsdayPreppers.csproj"
+    },
+    "Heras/1.0.0": {
+      "type": "project",
+      "path": "../Heras/Heras.csproj",
+      "msbuildProject": "../Heras/Heras.csproj"
+    },
+    "IEEE/1.0.0": {
+      "type": "project",
+      "path": "../IEEE/IEEE.csproj",
+      "msbuildProject": "../IEEE/IEEE.csproj"
+    },
+    "Infrac/1.0.0": {
+      "type": "project",
+      "path": "../Infrac/Infrac.csproj",
+      "msbuildProject": "../Infrac/Infrac.csproj"
+    },
+    "Philips/1.0.0": {
+      "type": "project",
+      "path": "../Philips/Philips.csproj",
+      "msbuildProject": "../Philips/Philips.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "DoomsdayPreppers >= 1.0.0",
+      "Heras >= 1.0.0",
+      "IEEE >= 1.0.0",
+      "Infrac >= 1.0.0",
+      "Philips >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\s.orie\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Projects\\Interactie\\Oprijlaan\\MijnHuis\\MijnHuis.csproj",
+      "projectName": "MijnHuis",
+      "projectPath": "E:\\Projects\\Interactie\\Oprijlaan\\MijnHuis\\MijnHuis.csproj",
+      "packagesPath": "C:\\Users\\s.orie\\.nuget\\packages\\",
+      "outputPath": "E:\\Projects\\Interactie\\Oprijlaan\\MijnHuis\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\s.orie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "E:\\Projects\\Interactie\\Oprijlaan\\DoomsdayPreppers\\DoomsdayPreppers.csproj": {
+              "projectPath": "E:\\Projects\\Interactie\\Oprijlaan\\DoomsdayPreppers\\DoomsdayPreppers.csproj"
+            },
+            "E:\\Projects\\Interactie\\Oprijlaan\\Heras\\Heras.csproj": {
+              "projectPath": "E:\\Projects\\Interactie\\Oprijlaan\\Heras\\Heras.csproj"
+            },
+            "E:\\Projects\\Interactie\\Oprijlaan\\IEEE\\IEEE.csproj": {
+              "projectPath": "E:\\Projects\\Interactie\\Oprijlaan\\IEEE\\IEEE.csproj"
+            },
+            "E:\\Projects\\Interactie\\Oprijlaan\\Infrac\\Infrac.csproj": {
+              "projectPath": "E:\\Projects\\Interactie\\Oprijlaan\\Infrac\\Infrac.csproj"
+            },
+            "E:\\Projects\\Interactie\\Oprijlaan\\Philips\\Philips.csproj": {
+              "projectPath": "E:\\Projects\\Interactie\\Oprijlaan\\Philips\\Philips.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

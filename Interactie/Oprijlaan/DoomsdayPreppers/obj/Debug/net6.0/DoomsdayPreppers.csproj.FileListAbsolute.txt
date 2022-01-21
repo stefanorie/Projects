@@ -1,0 +1,15 @@
+E:\Projects\Interactie\Oprijlaan\DoomsdayPreppers\bin\Debug\net6.0\DoomsdayPreppers.deps.json
+E:\Projects\Interactie\Oprijlaan\DoomsdayPreppers\bin\Debug\net6.0\DoomsdayPreppers.dll
+E:\Projects\Interactie\Oprijlaan\DoomsdayPreppers\bin\Debug\net6.0\ref\DoomsdayPreppers.dll
+E:\Projects\Interactie\Oprijlaan\DoomsdayPreppers\bin\Debug\net6.0\DoomsdayPreppers.pdb
+E:\Projects\Interactie\Oprijlaan\DoomsdayPreppers\obj\Debug\net6.0\DoomsdayPreppers.csproj.AssemblyReference.cache
+E:\Projects\Interactie\Oprijlaan\DoomsdayPreppers\obj\Debug\net6.0\DoomsdayPreppers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Interactie\Oprijlaan\DoomsdayPreppers\obj\Debug\net6.0\DoomsdayPreppers.AssemblyInfoInputs.cache
+E:\Projects\Interactie\Oprijlaan\DoomsdayPreppers\obj\Debug\net6.0\DoomsdayPreppers.AssemblyInfo.cs
+E:\Projects\Interactie\Oprijlaan\DoomsdayPreppers\obj\Debug\net6.0\DoomsdayPreppers.csproj.CoreCompileInputs.cache
+E:\Projects\Interactie\Oprijlaan\DoomsdayPreppers\obj\Debug\net6.0\DoomsdayPreppers.dll
+E:\Projects\Interactie\Oprijlaan\DoomsdayPreppers\obj\Debug\net6.0\ref\DoomsdayPreppers.dll
+E:\Projects\Interactie\Oprijlaan\DoomsdayPreppers\obj\Debug\net6.0\DoomsdayPreppers.pdb
+E:\Projects\Interactie\Oprijlaan\DoomsdayPreppers\obj\Debug\net6.0\DoomsdayPreppers.csproj.CopyComplete
+E:\Projects\Interactie\Oprijlaan\DoomsdayPreppers\bin\Debug\net6.0\IEEE.dll
+E:\Projects\Interactie\Oprijlaan\DoomsdayPreppers\bin\Debug\net6.0\IEEE.pdb

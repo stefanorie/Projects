@@ -1,0 +1,15 @@
+E:\Projects\Confidentiality\bin\Debug\net6.0\Confidentiality.exe
+E:\Projects\Confidentiality\bin\Debug\net6.0\Confidentiality.deps.json
+E:\Projects\Confidentiality\bin\Debug\net6.0\Confidentiality.runtimeconfig.json
+E:\Projects\Confidentiality\bin\Debug\net6.0\Confidentiality.dll
+E:\Projects\Confidentiality\bin\Debug\net6.0\ref\Confidentiality.dll
+E:\Projects\Confidentiality\bin\Debug\net6.0\Confidentiality.pdb
+E:\Projects\Confidentiality\obj\Debug\net6.0\Confidentiality.csproj.AssemblyReference.cache
+E:\Projects\Confidentiality\obj\Debug\net6.0\Confidentiality.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Confidentiality\obj\Debug\net6.0\Confidentiality.AssemblyInfoInputs.cache
+E:\Projects\Confidentiality\obj\Debug\net6.0\Confidentiality.AssemblyInfo.cs
+E:\Projects\Confidentiality\obj\Debug\net6.0\Confidentiality.csproj.CoreCompileInputs.cache
+E:\Projects\Confidentiality\obj\Debug\net6.0\Confidentiality.dll
+E:\Projects\Confidentiality\obj\Debug\net6.0\ref\Confidentiality.dll
+E:\Projects\Confidentiality\obj\Debug\net6.0\Confidentiality.pdb
+E:\Projects\Confidentiality\obj\Debug\net6.0\Confidentiality.genruntimeconfig.cache

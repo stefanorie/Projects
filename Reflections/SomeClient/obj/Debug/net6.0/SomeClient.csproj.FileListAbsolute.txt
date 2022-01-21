@@ -1,0 +1,15 @@
+E:\Projects\Reflections\SomeClient\bin\Debug\net6.0\SomeClient.exe
+E:\Projects\Reflections\SomeClient\bin\Debug\net6.0\SomeClient.deps.json
+E:\Projects\Reflections\SomeClient\bin\Debug\net6.0\SomeClient.runtimeconfig.json
+E:\Projects\Reflections\SomeClient\bin\Debug\net6.0\SomeClient.dll
+E:\Projects\Reflections\SomeClient\bin\Debug\net6.0\ref\SomeClient.dll
+E:\Projects\Reflections\SomeClient\bin\Debug\net6.0\SomeClient.pdb
+E:\Projects\Reflections\SomeClient\obj\Debug\net6.0\SomeClient.csproj.AssemblyReference.cache
+E:\Projects\Reflections\SomeClient\obj\Debug\net6.0\SomeClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Reflections\SomeClient\obj\Debug\net6.0\SomeClient.AssemblyInfoInputs.cache
+E:\Projects\Reflections\SomeClient\obj\Debug\net6.0\SomeClient.AssemblyInfo.cs
+E:\Projects\Reflections\SomeClient\obj\Debug\net6.0\SomeClient.csproj.CoreCompileInputs.cache
+E:\Projects\Reflections\SomeClient\obj\Debug\net6.0\SomeClient.dll
+E:\Projects\Reflections\SomeClient\obj\Debug\net6.0\ref\SomeClient.dll
+E:\Projects\Reflections\SomeClient\obj\Debug\net6.0\SomeClient.pdb
+E:\Projects\Reflections\SomeClient\obj\Debug\net6.0\SomeClient.genruntimeconfig.cache

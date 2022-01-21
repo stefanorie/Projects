@@ -1,0 +1,15 @@
+E:\Projects\tafels_van_10\bin\Debug\net6.0\tafels_van_10.exe
+E:\Projects\tafels_van_10\bin\Debug\net6.0\tafels_van_10.deps.json
+E:\Projects\tafels_van_10\bin\Debug\net6.0\tafels_van_10.runtimeconfig.json
+E:\Projects\tafels_van_10\bin\Debug\net6.0\tafels_van_10.dll
+E:\Projects\tafels_van_10\bin\Debug\net6.0\ref\tafels_van_10.dll
+E:\Projects\tafels_van_10\bin\Debug\net6.0\tafels_van_10.pdb
+E:\Projects\tafels_van_10\obj\Debug\net6.0\tafels_van_10.csproj.AssemblyReference.cache
+E:\Projects\tafels_van_10\obj\Debug\net6.0\tafels_van_10.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\tafels_van_10\obj\Debug\net6.0\tafels_van_10.AssemblyInfoInputs.cache
+E:\Projects\tafels_van_10\obj\Debug\net6.0\tafels_van_10.AssemblyInfo.cs
+E:\Projects\tafels_van_10\obj\Debug\net6.0\tafels_van_10.csproj.CoreCompileInputs.cache
+E:\Projects\tafels_van_10\obj\Debug\net6.0\tafels_van_10.dll
+E:\Projects\tafels_van_10\obj\Debug\net6.0\ref\tafels_van_10.dll
+E:\Projects\tafels_van_10\obj\Debug\net6.0\tafels_van_10.pdb
+E:\Projects\tafels_van_10\obj\Debug\net6.0\tafels_van_10.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+E:\Projects\Integrity\bin\Debug\net6.0\Integrity.exe
+E:\Projects\Integrity\bin\Debug\net6.0\Integrity.deps.json
+E:\Projects\Integrity\bin\Debug\net6.0\Integrity.runtimeconfig.json
+E:\Projects\Integrity\bin\Debug\net6.0\Integrity.dll
+E:\Projects\Integrity\bin\Debug\net6.0\ref\Integrity.dll
+E:\Projects\Integrity\bin\Debug\net6.0\Integrity.pdb
+E:\Projects\Integrity\obj\Debug\net6.0\Integrity.csproj.AssemblyReference.cache
+E:\Projects\Integrity\obj\Debug\net6.0\Integrity.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Integrity\obj\Debug\net6.0\Integrity.AssemblyInfoInputs.cache
+E:\Projects\Integrity\obj\Debug\net6.0\Integrity.AssemblyInfo.cs
+E:\Projects\Integrity\obj\Debug\net6.0\Integrity.csproj.CoreCompileInputs.cache
+E:\Projects\Integrity\obj\Debug\net6.0\Integrity.dll
+E:\Projects\Integrity\obj\Debug\net6.0\ref\Integrity.dll
+E:\Projects\Integrity\obj\Debug\net6.0\Integrity.pdb
+E:\Projects\Integrity\obj\Debug\net6.0\Integrity.genruntimeconfig.cache

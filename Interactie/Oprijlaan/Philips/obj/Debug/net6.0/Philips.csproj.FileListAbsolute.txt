@@ -1,0 +1,15 @@
+E:\Projects\Interactie\Oprijlaan\Philips\bin\Debug\net6.0\Philips.deps.json
+E:\Projects\Interactie\Oprijlaan\Philips\bin\Debug\net6.0\Philips.dll
+E:\Projects\Interactie\Oprijlaan\Philips\bin\Debug\net6.0\ref\Philips.dll
+E:\Projects\Interactie\Oprijlaan\Philips\bin\Debug\net6.0\Philips.pdb
+E:\Projects\Interactie\Oprijlaan\Philips\obj\Debug\net6.0\Philips.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Interactie\Oprijlaan\Philips\obj\Debug\net6.0\Philips.AssemblyInfoInputs.cache
+E:\Projects\Interactie\Oprijlaan\Philips\obj\Debug\net6.0\Philips.AssemblyInfo.cs
+E:\Projects\Interactie\Oprijlaan\Philips\obj\Debug\net6.0\Philips.csproj.CoreCompileInputs.cache
+E:\Projects\Interactie\Oprijlaan\Philips\obj\Debug\net6.0\Philips.dll
+E:\Projects\Interactie\Oprijlaan\Philips\obj\Debug\net6.0\ref\Philips.dll
+E:\Projects\Interactie\Oprijlaan\Philips\obj\Debug\net6.0\Philips.pdb
+E:\Projects\Interactie\Oprijlaan\Philips\obj\Debug\net6.0\Philips.csproj.AssemblyReference.cache
+E:\Projects\Interactie\Oprijlaan\Philips\obj\Debug\net6.0\Philips.csproj.CopyComplete
+E:\Projects\Interactie\Oprijlaan\Philips\bin\Debug\net6.0\IEEE.dll
+E:\Projects\Interactie\Oprijlaan\Philips\bin\Debug\net6.0\IEEE.pdb

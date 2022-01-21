@@ -1,0 +1,15 @@
+E:\Projects\Webcalls\bin\Debug\net6.0\Webcalls.exe
+E:\Projects\Webcalls\bin\Debug\net6.0\Webcalls.deps.json
+E:\Projects\Webcalls\bin\Debug\net6.0\Webcalls.runtimeconfig.json
+E:\Projects\Webcalls\bin\Debug\net6.0\Webcalls.dll
+E:\Projects\Webcalls\bin\Debug\net6.0\ref\Webcalls.dll
+E:\Projects\Webcalls\bin\Debug\net6.0\Webcalls.pdb
+E:\Projects\Webcalls\obj\Debug\net6.0\Webcalls.csproj.AssemblyReference.cache
+E:\Projects\Webcalls\obj\Debug\net6.0\Webcalls.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Webcalls\obj\Debug\net6.0\Webcalls.AssemblyInfoInputs.cache
+E:\Projects\Webcalls\obj\Debug\net6.0\Webcalls.AssemblyInfo.cs
+E:\Projects\Webcalls\obj\Debug\net6.0\Webcalls.csproj.CoreCompileInputs.cache
+E:\Projects\Webcalls\obj\Debug\net6.0\Webcalls.dll
+E:\Projects\Webcalls\obj\Debug\net6.0\ref\Webcalls.dll
+E:\Projects\Webcalls\obj\Debug\net6.0\Webcalls.pdb
+E:\Projects\Webcalls\obj\Debug\net6.0\Webcalls.genruntimeconfig.cache

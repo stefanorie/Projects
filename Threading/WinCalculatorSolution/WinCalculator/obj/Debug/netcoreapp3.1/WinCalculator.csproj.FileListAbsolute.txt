@@ -1,0 +1,16 @@
+E:\Projects\Threading\WinCalculatorSolution\WinCalculator\obj\Debug\netcoreapp3.1\WinCalculator.csproj.AssemblyReference.cache
+E:\Projects\Threading\WinCalculatorSolution\WinCalculator\obj\Debug\netcoreapp3.1\WinCalculator.txtA.resources
+E:\Projects\Threading\WinCalculatorSolution\WinCalculator\obj\Debug\netcoreapp3.1\WinCalculator.csproj.GenerateResource.cache
+E:\Projects\Threading\WinCalculatorSolution\WinCalculator\obj\Debug\netcoreapp3.1\WinCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Threading\WinCalculatorSolution\WinCalculator\obj\Debug\netcoreapp3.1\WinCalculator.AssemblyInfoInputs.cache
+E:\Projects\Threading\WinCalculatorSolution\WinCalculator\obj\Debug\netcoreapp3.1\WinCalculator.AssemblyInfo.cs
+E:\Projects\Threading\WinCalculatorSolution\WinCalculator\obj\Debug\netcoreapp3.1\WinCalculator.csproj.CoreCompileInputs.cache
+E:\Projects\Threading\WinCalculatorSolution\WinCalculator\bin\Debug\netcoreapp3.1\WinCalculator.exe
+E:\Projects\Threading\WinCalculatorSolution\WinCalculator\bin\Debug\netcoreapp3.1\WinCalculator.deps.json
+E:\Projects\Threading\WinCalculatorSolution\WinCalculator\bin\Debug\netcoreapp3.1\WinCalculator.runtimeconfig.json
+E:\Projects\Threading\WinCalculatorSolution\WinCalculator\bin\Debug\netcoreapp3.1\WinCalculator.runtimeconfig.dev.json
+E:\Projects\Threading\WinCalculatorSolution\WinCalculator\bin\Debug\netcoreapp3.1\WinCalculator.dll
+E:\Projects\Threading\WinCalculatorSolution\WinCalculator\bin\Debug\netcoreapp3.1\WinCalculator.pdb
+E:\Projects\Threading\WinCalculatorSolution\WinCalculator\obj\Debug\netcoreapp3.1\WinCalculator.dll
+E:\Projects\Threading\WinCalculatorSolution\WinCalculator\obj\Debug\netcoreapp3.1\WinCalculator.pdb
+E:\Projects\Threading\WinCalculatorSolution\WinCalculator\obj\Debug\netcoreapp3.1\WinCalculator.genruntimeconfig.cache

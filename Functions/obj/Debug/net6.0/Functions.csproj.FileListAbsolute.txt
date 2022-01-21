@@ -1,0 +1,15 @@
+E:\Projects\Functions\obj\Debug\net6.0\Functions.csproj.AssemblyReference.cache
+E:\Projects\Functions\obj\Debug\net6.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Functions\obj\Debug\net6.0\Functions.AssemblyInfoInputs.cache
+E:\Projects\Functions\obj\Debug\net6.0\Functions.AssemblyInfo.cs
+E:\Projects\Functions\obj\Debug\net6.0\Functions.csproj.CoreCompileInputs.cache
+E:\Projects\Functions\bin\Debug\net6.0\Functions.exe
+E:\Projects\Functions\bin\Debug\net6.0\Functions.deps.json
+E:\Projects\Functions\bin\Debug\net6.0\Functions.runtimeconfig.json
+E:\Projects\Functions\bin\Debug\net6.0\Functions.dll
+E:\Projects\Functions\bin\Debug\net6.0\ref\Functions.dll
+E:\Projects\Functions\bin\Debug\net6.0\Functions.pdb
+E:\Projects\Functions\obj\Debug\net6.0\Functions.dll
+E:\Projects\Functions\obj\Debug\net6.0\ref\Functions.dll
+E:\Projects\Functions\obj\Debug\net6.0\Functions.pdb
+E:\Projects\Functions\obj\Debug\net6.0\Functions.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+E:\Projects\Interactie\Oprijlaan\IEEE\bin\Debug\net6.0\IEEE.deps.json
+E:\Projects\Interactie\Oprijlaan\IEEE\bin\Debug\net6.0\IEEE.dll
+E:\Projects\Interactie\Oprijlaan\IEEE\bin\Debug\net6.0\ref\IEEE.dll
+E:\Projects\Interactie\Oprijlaan\IEEE\bin\Debug\net6.0\IEEE.pdb
+E:\Projects\Interactie\Oprijlaan\IEEE\obj\Debug\net6.0\IEEE.csproj.AssemblyReference.cache
+E:\Projects\Interactie\Oprijlaan\IEEE\obj\Debug\net6.0\IEEE.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Interactie\Oprijlaan\IEEE\obj\Debug\net6.0\IEEE.AssemblyInfoInputs.cache
+E:\Projects\Interactie\Oprijlaan\IEEE\obj\Debug\net6.0\IEEE.AssemblyInfo.cs
+E:\Projects\Interactie\Oprijlaan\IEEE\obj\Debug\net6.0\IEEE.csproj.CoreCompileInputs.cache
+E:\Projects\Interactie\Oprijlaan\IEEE\obj\Debug\net6.0\IEEE.dll
+E:\Projects\Interactie\Oprijlaan\IEEE\obj\Debug\net6.0\ref\IEEE.dll
+E:\Projects\Interactie\Oprijlaan\IEEE\obj\Debug\net6.0\IEEE.pdb

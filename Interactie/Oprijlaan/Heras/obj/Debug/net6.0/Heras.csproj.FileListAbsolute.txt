@@ -1,0 +1,15 @@
+E:\Projects\Interactie\Oprijlaan\Heras\bin\Debug\net6.0\Heras.deps.json
+E:\Projects\Interactie\Oprijlaan\Heras\bin\Debug\net6.0\Heras.dll
+E:\Projects\Interactie\Oprijlaan\Heras\bin\Debug\net6.0\ref\Heras.dll
+E:\Projects\Interactie\Oprijlaan\Heras\bin\Debug\net6.0\Heras.pdb
+E:\Projects\Interactie\Oprijlaan\Heras\obj\Debug\net6.0\Heras.csproj.AssemblyReference.cache
+E:\Projects\Interactie\Oprijlaan\Heras\obj\Debug\net6.0\Heras.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Interactie\Oprijlaan\Heras\obj\Debug\net6.0\Heras.AssemblyInfoInputs.cache
+E:\Projects\Interactie\Oprijlaan\Heras\obj\Debug\net6.0\Heras.AssemblyInfo.cs
+E:\Projects\Interactie\Oprijlaan\Heras\obj\Debug\net6.0\Heras.csproj.CoreCompileInputs.cache
+E:\Projects\Interactie\Oprijlaan\Heras\obj\Debug\net6.0\Heras.dll
+E:\Projects\Interactie\Oprijlaan\Heras\obj\Debug\net6.0\ref\Heras.dll
+E:\Projects\Interactie\Oprijlaan\Heras\obj\Debug\net6.0\Heras.pdb
+E:\Projects\Interactie\Oprijlaan\Heras\obj\Debug\net6.0\Heras.csproj.CopyComplete
+E:\Projects\Interactie\Oprijlaan\Heras\bin\Debug\net6.0\IEEE.dll
+E:\Projects\Interactie\Oprijlaan\Heras\bin\Debug\net6.0\IEEE.pdb

@@ -1,0 +1,92 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MijnHuis/1.0.0": {
+        "dependencies": {
+          "DoomsdayPreppers": "1.0.0",
+          "Heras": "1.0.0",
+          "IEEE": "1.0.0",
+          "Infrac": "1.0.0",
+          "Philips": "1.0.0"
+        },
+        "runtime": {
+          "MijnHuis.dll": {}
+        }
+      },
+      "DoomsdayPreppers/1.0.0": {
+        "dependencies": {
+          "IEEE": "1.0.0"
+        },
+        "runtime": {
+          "DoomsdayPreppers.dll": {}
+        }
+      },
+      "Heras/1.0.0": {
+        "dependencies": {
+          "IEEE": "1.0.0"
+        },
+        "runtime": {
+          "Heras.dll": {}
+        }
+      },
+      "IEEE/1.0.0": {
+        "runtime": {
+          "IEEE.dll": {}
+        }
+      },
+      "Infrac/1.0.0": {
+        "dependencies": {
+          "IEEE": "1.0.0"
+        },
+        "runtime": {
+          "Infrac.dll": {}
+        }
+      },
+      "Philips/1.0.0": {
+        "dependencies": {
+          "IEEE": "1.0.0"
+        },
+        "runtime": {
+          "Philips.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MijnHuis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DoomsdayPreppers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Heras/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IEEE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Infrac/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Philips/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

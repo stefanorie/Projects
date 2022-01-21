@@ -1,0 +1,15 @@
+E:\Projects\Interactie\Oprijlaan\Infrac\bin\Debug\net6.0\Infrac.deps.json
+E:\Projects\Interactie\Oprijlaan\Infrac\bin\Debug\net6.0\Infrac.dll
+E:\Projects\Interactie\Oprijlaan\Infrac\bin\Debug\net6.0\ref\Infrac.dll
+E:\Projects\Interactie\Oprijlaan\Infrac\bin\Debug\net6.0\Infrac.pdb
+E:\Projects\Interactie\Oprijlaan\Infrac\obj\Debug\net6.0\Infrac.csproj.AssemblyReference.cache
+E:\Projects\Interactie\Oprijlaan\Infrac\obj\Debug\net6.0\Infrac.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Interactie\Oprijlaan\Infrac\obj\Debug\net6.0\Infrac.AssemblyInfoInputs.cache
+E:\Projects\Interactie\Oprijlaan\Infrac\obj\Debug\net6.0\Infrac.AssemblyInfo.cs
+E:\Projects\Interactie\Oprijlaan\Infrac\obj\Debug\net6.0\Infrac.csproj.CoreCompileInputs.cache
+E:\Projects\Interactie\Oprijlaan\Infrac\obj\Debug\net6.0\Infrac.dll
+E:\Projects\Interactie\Oprijlaan\Infrac\obj\Debug\net6.0\ref\Infrac.dll
+E:\Projects\Interactie\Oprijlaan\Infrac\obj\Debug\net6.0\Infrac.pdb
+E:\Projects\Interactie\Oprijlaan\Infrac\bin\Debug\net6.0\IEEE.dll
+E:\Projects\Interactie\Oprijlaan\Infrac\bin\Debug\net6.0\IEEE.pdb
+E:\Projects\Interactie\Oprijlaan\Infrac\obj\Debug\net6.0\Infrac.csproj.CopyComplete
